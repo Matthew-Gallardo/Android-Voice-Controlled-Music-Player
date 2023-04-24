@@ -1,2 +1,2 @@
 # VoxTunes-AI
-Speech Recognition Music Player
+Android Application of Voice-Controlled Music Player
